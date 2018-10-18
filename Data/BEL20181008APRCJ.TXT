@@ -1,0 +1,304 @@
+QuickHorse (c) 2018 - Website: http://quickreckoning.com/horses.htm
+Custom Method: APRCJ - PACE RATING/JOCKEY/CLASS METHOD
+BELMONT PARK 10-08-2018 RACE 1 OF 10 - TRACK RATING: 98 PT-01:00PM
+8.0f DIRT MDN 3&UP FOALED IN NY AND APPROVED BY THE NY-BRD REGISTRY 3YO 120 LBS;ODR 124 L
+MDN SP WT PURSE: $62000  RACE RATINGS: PRE 25  
+
+  Weighting Factors  13     21      1      1      1      1      0     16    
+PGM Name             A1FRR  A2FRR  A3FRR  AEPR   AAPR   ASPR   CLASS  JRATE SCORE
+4   DARK OPS        *80.00  64.40  25.40 *78.80  39.00  32.80 *25.00 *51.93 3.59  
+1   SAN JUAN DIEGO   49.14  76.57  37.71  70.00  45.71  46.29 *25.00  48.84 3.78  
+6   UNSULLIED        17.75 *84.50  54.75  61.75 *51.25  58.75 *25.00  43.91 4.27  
+2   CURLINS LEGACY   26.00  57.40 *66.80  32.40  51.00 *62.40 *25.00  48.20 4.87  
+3   LOCAL COUNSEL    15.67  36.33  61.00  12.00  30.67  46.33 *25.00  42.33 6.38  
+5   BLUE SKIES FOREV 14.00  43.40  45.40  15.00  19.40  32.40 *25.00  29.66 7.11  
+The number of past races used is 10
+MY TIP SHEET PREDICTIONS (USING PACE RATING/JOCKEY/CLASS METHOD):
+PGM    HORSE            ODDS       JOCKEY            TRAINER            OOF
+4  DARK OPS              3.0   ORTIZ J. L.        ENGLEHART J. C.
+1  SAN JUAN DIEGO        1.4   SAEZ L.            MOQUETT R.
+6  UNSULLIED             6.0   DAVIS D.           QUICK P. J.
+2  CURLINS LEGACY        4.0   FRANCO M.          ENGLEHART J. C.
+3  LOCAL COUNSEL         3.5   LEZCANO J.         HENNIG M. A.
+5  BLUE SKIES FOREVER   15.0   KAY W. R.          FERRARO J. W.
+Method Success - WIN 69.39 PCT WGR-1234/1234 $24 - 49 RACES, ROI 11.46  PCT 10-07-2018
+
+QuickHorse (c) 2018 - Website: http://quickreckoning.com/horses.htm
+Custom Method: APRCJ - PACE RATING/JOCKEY/CLASS METHOD
+BELMONT PARK 10-08-2018 RACE 2 OF 10 - TRACK RATING: 98 PT-01:34PM
+8.5f TURF  MDN FILS 2YO WGT 119 LBS WGR: EX QUINELLA TRI SUPER PK3 PICK 4 DOUBLE WGRS
+MDN SP WT PURSE: $75000  RACE RATINGS: PRE 25  
+
+  Weighting Factors   5      0     10      1      1      1      1      1    
+PGM Name             A1FRR  A2FRR  A3FRR  AEPR   AAPR   ASPR   CLASS  JRATE SCORE
+5   SEVENTH PLANET   47.00  27.00 *51.50  31.50  38.00 *45.50 *25.00  43.76 3.77  
+2   STYLE AND GRACE *86.00 *79.50  29.50 *89.50 *59.50 *45.50 *25.00  52.76 3.90  
+9   SEEK AND DESTROY 76.50  67.00  27.50  72.50  50.50  38.00 *25.00 *53.76 4.26  
+7   DIZZY            75.00  39.50  7.00   59.25  21.00  13.50 *25.00  40.61 5.86  
+8   KEENEASABEAN     7.00   0.00   26.00  0.00   0.00   6.00  *25.00  48.71 6.06  
+1   BRAMBLE BAY      67.50  5.00   3.50   32.50  4.50   3.50  *25.00  48.84 6.19  
+6   EMMA LAZARUS     ????   ????   ????   ????   ????   ????   ????   53.36 9.66  
+4   ETERNALLY        ????   ????   ????   ????   ????   ????   ????   50.72 9.71  
+3   AMAZIMA          ????   ????   ????   ????   ????   ????   ????   44.17 9.83  
+The number of past races used is 10
+MY TIP SHEET PREDICTIONS (USING PACE RATING/JOCKEY/CLASS METHOD):
+PGM    HORSE            ODDS       JOCKEY            TRAINER            OOF
+5  SEVENTH PLANET        4.5   CANCEL E.          NICKS R. E.
+2  STYLE AND GRACE       4.0   ROSARIO J.         DUTROW A. W.
+9  SEEK AND DESTROY      3.5   CASTELLANO J.      BROWN C. C.
+7  DIZZY                10.0   TBA R.             RODRIGUEZ R. R.
+8  KEENEASABEAN          8.0   VELAZQUEZ J. R.    DONK D. G.
+1  BRAMBLE BAY          15.0   SAEZ L.            DINI M.
+6  EMMA LAZARUS          2.5   ORTIZ JR. I.       BROWN C. C.
+4  ETERNALLY            12.0   BRAVO J.           ALBERTRANI T.
+3  AMAZIMA               6.0   COHEN D.           CLEMENT C.
+Method Success - WIN 42.00 PCT WGR-1234/1234 $24 - 50 RACES, ROI -0.40  PCT 10-07-2018
+
+QuickHorse (c) 2018 - Website: http://quickreckoning.com/horses.htm
+Custom Method: APRCJ - PACE RATING/JOCKEY/CLASS METHOD
+BELMONT PARK 10-08-2018 RACE 3 OF 10 - TRACK RATING: 98 PT-02:08PM
+9.0f INR TURF  3-YEAR-OLDS AND UPWARD WGR: EX TRI SUPER PK3 DOUBLE WGRS
+GRADE II STK/HCP PURSE: $200000  RACE RATINGS: PRE 90  
+
+  Weighting Factors   1      1      1      0      0      1      3      1    
+PGM Name             A1FRR  A2FRR  A3FRR  AEPR   AAPR   ASPR   CLASS  JRATE SCORE
+6   INSPECTOR LYNLEY 78.60  79.50 *69.10  84.90 *84.30 *79.60  69.50  51.93 3.62  
+4   BLACKTYPE        72.30  75.50  49.60  80.80  75.80  64.60  60.50  52.76 4.72  
+7   HI HAPPY         75.44  36.67  42.89  55.44  49.89  45.56 *90.00  48.84 4.76  
+2   NIGHT PROWLER    80.30  79.00  51.40  86.70  83.40  69.90  46.00  48.71 5.04  
+3   AQUAPHOBIA      *90.80  60.80  50.60  80.60  73.70  64.90  39.50  53.36 5.10  
+1   REVVED UP        64.80  52.80  54.30  60.70  60.20  57.90  61.50 *53.76 5.20  
+5   SECRET PASSAGE   81.70 *82.90  22.56 *87.67  75.44  49.78  35.50  40.61 6.57  
+The number of past races used is 10
+MY TIP SHEET PREDICTIONS (USING PACE RATING/JOCKEY/CLASS METHOD):
+PGM    HORSE            ODDS       JOCKEY            TRAINER            OOF
+6  INSPECTOR LYNLEY      2.0   ORTIZ J. L.        MCGAUGHEY III C. R
+4  BLACKTYPE             4.0   ROSARIO J.         CLEMENT C.
+7  HI HAPPY              1.4   SAEZ L.            PLETCHER T. A.
+2  NIGHT PROWLER         8.0   VELAZQUEZ J. R.    MAGNER D.
+3  AQUAPHOBIA            6.0   ORTIZ JR. I.       FALCONE JR. R. N.
+1  REVVED UP            10.0   CASTELLANO J.      ABREU J. R.
+5  SECRET PASSAGE        2.5   TBA R.             DIODORO R.
+Method Success - WIN 57.14 PCT WGR-1234/1234 $24 - 21 RACES, ROI 7.40   PCT 10-07-2018
+
+QuickHorse (c) 2018 - Website: http://quickreckoning.com/horses.htm
+Custom Method: APRCJ - PACE RATING/JOCKEY/CLASS METHOD
+BELMONT PARK 10-08-2018 RACE 4 OF 10 - TRACK RATING: 98 PT-02:42PM
+6.0f DIRT MDN F&M 3&UP FOALED IN NY AND APPROVED BY THE NY-BRD REGISTRY 3YO 121 LBS;ODR 1
+MDN CLAIM PURSE: $33000  RACE RATINGS: PRE 25  
+
+  Weighting Factors   9      1      0      1      1      1      1      0    
+PGM Name             A1FRR  A2FRR  A3FRR  AEPR   AAPR   ASPR   CLASS  JRATE SCORE
+6   ZECHA           *66.38  24.50 *58.25  47.00 *53.63 *55.63 *25.00  51.93 2.76  
+2   ALYS ALL OUT     59.00 *38.00  52.50 *49.00  51.00  52.00 *25.00  33.47 3.03  
+4   RAMBLIN MAAM     44.50  30.75  22.75  27.75  21.75  21.50 *25.00  39.63 4.61  
+3   BIG EXPENSE      36.80  29.40  54.10  30.30  40.70  47.30 *25.00  43.91 4.75  
+7   TEQUILA SUNDAY   31.40  35.20  47.70  27.10  36.40  40.70 *25.00 *53.36 5.09  
+5   BOURBON HIGH     38.00  18.50  36.50  25.50  23.50  26.67 *25.00  32.67 5.15  
+8   GENTLE ANNIE     31.60  28.60  30.00  26.00  22.80  25.20 *25.00  34.95 5.39  
+1   REYANA REYA DREA 23.40  21.60  9.00   13.90  7.70   6.70  *25.00  29.66 6.33  
+1A  GIRLIES DREAM    1.83   11.50  22.33  0.67   4.83   8.17  *25.00  21.99 7.90  
+The number of past races used is 10
+MY TIP SHEET PREDICTIONS (USING PACE RATING/JOCKEY/CLASS METHOD):
+PGM    HORSE            ODDS       JOCKEY            TRAINER            OOF
+6  ZECHA                 1.6   ORTIZ J. L.        LEVINE B. N.
+2  ALYS ALL OUT          8.0   MARTINEZ J. R.     GULLO G. P.
+4  RAMBLIN MAAM          8.0   MARAGH R.          SUMMERS C.
+3  BIG EXPENSE           3.5   DAVIS D.           SCHETTINO D. L.
+7  TEQUILA SUNDAY        3.0   ORTIZ JR. I.       DONK D. G.
+5  BOURBON HIGH         30.0   JIMENEZ S.         ADEL D. H.
+8  GENTLE ANNIE          6.0   REYES L. R.        SCIACCA G.
+1  REYANA REYA DREAMS   30.0   KAY W. R.          PERSAUD R.
+1A GIRLIES DREAM        30.0   BROWN D.           PERSAUD R.
+Method Success - WIN 60.00 PCT WGR-1234/1234 $24 - 50 RACES, ROI 1.59   PCT 10-07-2018
+
+QuickHorse (c) 2018 - Website: http://quickreckoning.com/horses.htm
+Custom Method: APRCJ - PACE RATING/JOCKEY/CLASS METHOD
+BELMONT PARK 10-08-2018 RACE 5 OF 10 - TRACK RATING: 98 PT-03:16PM
+8.5f INR TURF  MDN FILS 2YO WGT 119 LBS WGR: EX TRI SUPER PK3 PICK 6 DOUBLE WGRS
+MDN SP WT PURSE: $75000  RACE RATINGS: PRE 25  
+
+  Weighting Factors   2      2      5      2      2      2      2     32    
+PGM Name             A1FRR  A2FRR  A3FRR  AEPR   AAPR   ASPR   CLASS  JRATE SCORE
+4   PERFECT KIND     80.50  7.00   52.00  41.50  46.00  49.00 *25.00  51.93 4.03  
+9   MULTI STRATEGY   44.00  23.50  32.50  32.00  24.00  25.50 *25.00  53.36 4.15  
+7   HERE COMES JACKI 42.00  9.00   36.00  15.33  25.67  31.33 *25.00  52.76 4.33  
+8   MADDING CROWD   *98.00  32.00  9.00  *86.00  44.00  18.00 *25.00  46.68 5.30  
+3   LUCKY LIPS       ????   ????   ????   ????   ????   ????   ????  *53.76 5.61  
+2   BLUE JEAN KITTEN 31.00 *64.00 *67.00  48.00 *59.00 *65.00 *25.00  42.33 5.69  
+6   PEACEFUL FEELING ????   ????   ????   ????   ????   ????   ????   48.71 6.65  
+5   SWEET TIMING     ????   ????   ????   ????   ????   ????   ????   48.20 6.76  
+1   WHYISSHESOOLUCKY 48.00  40.00  7.00   41.00  16.50  12.00 *25.00  37.18 7.68  
+The number of past races used is 10
+MY TIP SHEET PREDICTIONS (USING PACE RATING/JOCKEY/CLASS METHOD):
+PGM    HORSE            ODDS       JOCKEY            TRAINER            OOF
+4  PERFECT KIND          3.0   ORTIZ J. L.        MOTION H. G.
+9  MULTI STRATEGY        5.0   ORTIZ JR. I.       BROWN C. C.
+7  HERE COMES JACKIE    12.0   ROSARIO J.         DINI M.
+8  MADDING CROWD         6.0   ALVARADO J.        MOTT W. I.
+3  LUCKY LIPS            6.0   CASTELLANO J.      THOMAS J.
+2  BLUE JEAN KITTEN      4.5   LEZCANO J.         GARGAN D.
+6  PEACEFUL FEELING      3.5   VELAZQUEZ J. R.    BROWN C. C.
+5  SWEET TIMING         12.0   FRANCO M.          TONER J. J.
+1  WHYISSHESOOLUCKY     30.0   DIAZ JR. H. R.     MAYMO A.
+Method Success - WIN 50.00 PCT WGR-1234/1234 $24 - 50 RACES, ROI -0.28  PCT 10-07-2018
+
+QuickHorse (c) 2018 - Website: http://quickreckoning.com/horses.htm
+Custom Method: APRCJ - PACE RATING/JOCKEY/CLASS METHOD
+BELMONT PARK 10-08-2018 RACE 6 OF 10 - TRACK RATING: 98 PT-03:50PM
+7.0f DIRT 3&UP Nw 2 3YO 120 LBS;ODR 123 LBS NON-WS SNC MAY 1 2018 2 LBS CLM $16K WGR: EX 
+CLAIMING PURSE: $28000  RACE RATINGS: PRE 0  
+
+  Weighting Factors   2      2      2      1      2      2      0     20    
+PGM Name             A1FRR  A2FRR  A3FRR  AEPR   AAPR   ASPR   CLASS  JRATE SCORE
+2   MERGER OF BANKS  62.90  40.00  49.80  52.40  51.60  50.90  25.00 *53.36 3.36  
+3   BELLEVILLE SPRIN*75.78  43.22  35.44 *60.00  48.89  42.22 *51.67  48.84 3.95  
+4   SOUTHEAST        37.56  34.22 *75.78  31.44 *56.00 *65.78  25.00  43.91 4.14  
+7   CANTWEALLGETALON 30.00  39.30  53.40  29.50  40.30  44.30  25.00  48.20 4.38  
+1   THE CHAMO        57.00  15.14  44.14  29.43  34.43  37.29  25.00  33.47 6.19  
+6   SHIPSANDGOODS    18.70 *44.80  51.30  22.20  37.10  41.50  25.00  31.06 6.25  
+5   COOKIE CRISP     51.10  18.50  63.90  28.40  52.10  55.80  29.00  21.99 6.73  
+The number of past races used is 10
+MY TIP SHEET PREDICTIONS (USING PACE RATING/JOCKEY/CLASS METHOD):
+PGM    HORSE            ODDS       JOCKEY            TRAINER            OOF
+2  MERGER OF BANKS       2.5   ORTIZ JR. I.       RODRIGUEZ R. R.
+3  BELLEVILLE SPRING     5.0   SAEZ L.            CANNIZZO D. A.
+4  SOUTHEAST             4.0   DAVIS D.           CONTESSA G. C.
+7  CANTWEALLGETALONG     1.6   FRANCO M.          NEVIN M.
+1  THE CHAMO             6.0   MARTINEZ J. R.     CONTESSA G. C.
+6  SHIPSANDGOODS        20.0   FRAGOSO P.         DUNHAM B. G.
+5  COOKIE CRISP         15.0   BROWN D.           PERSAUD R.
+Method Success - WIN 71.43 PCT WGR-1234/1234 $24 - 49 RACES, ROI 30.14  PCT 10-07-2018
+
+QuickHorse (c) 2018 - Website: http://quickreckoning.com/horses.htm
+Custom Method: APRCJ - PACE RATING/JOCKEY/CLASS METHOD
+BELMONT PARK 10-08-2018 RACE 7 OF 10 - TRACK RATING: 98 PT-04:24PM
+8.5f TURF  F&M 3&UP Nw $1OK OTHER THAN MDN CLMG STRTR/ST BRD ALW/ Nw 2 3YO 120 LBS;ODR 12
+ALLOWANCE PURSE: $77000  RACE RATINGS: PRE 50  
+
+  Weighting Factors   3      3      3      3      3      3      1      3    
+PGM Name             A1FRR  A2FRR  A3FRR  AEPR   AAPR   ASPR   CLASS  JRATE SCORE
+8   FAIRY LINK       62.14  44.29 *68.71  55.71 *67.57 *69.14  30.71  48.71 4.15  
+2   SISTER SUNDAY    65.50  48.25  58.25  60.25  63.50  61.25  35.00  52.76 4.19  
+5   VOLODINA         59.33 *66.33  42.00  64.67  59.00  51.67 *51.67  51.93 4.39  
+7   TRANSACTION TAX *91.30  47.20  34.50 *77.70  59.70  47.10  49.00  48.20 4.81  
+4   BLAME HENNY      57.33  36.33  59.67  47.33  55.00  58.00  25.00 *53.76 5.08  
+6   GOODBYE BROCKLEY 57.50  39.13  58.88  48.00  53.13  58.00  40.00  48.84 5.26  
+1   QUIVERY          21.00  43.50  52.50  29.50  36.50  44.00  25.00  42.33 7.35  
+3   CHIARA LUNA      ????   ????   ????   ????   ????   ????   ????   53.36 9.10  
+The number of past races used is 10
+MY TIP SHEET PREDICTIONS (USING PACE RATING/JOCKEY/CLASS METHOD):
+PGM    HORSE            ODDS       JOCKEY            TRAINER            OOF
+8  FAIRY LINK           12.0   VELAZQUEZ J. R.    PUGH P. D.
+2  SISTER SUNDAY         3.0   ROSARIO J.         CLEMENT C.
+5  VOLODINA             15.0   ORTIZ J. L.        MOTT W. I.
+7  TRANSACTION TAX      15.0   FRANCO M.          CONTESSA G. C.
+4  BLAME HENNY           3.5   CASTELLANO J.      MATZ M. R.
+6  GOODBYE BROCKLEY      5.0   SAEZ L.            SERPE P. M.
+1  QUIVERY               8.0   LEZCANO J.         RIBAUDO R.
+3  CHIARA LUNA           2.0   ORTIZ JR. I.       CLEMENT C.
+Method Success - WIN 36.36 PCT WGR-1234/1234 $24 - 22 RACES, ROI 0.63   PCT 10-07-2018
+
+QuickHorse (c) 2018 - Website: http://quickreckoning.com/horses.htm
+Custom Method: APRCJ - PACE RATING/JOCKEY/CLASS METHOD
+BELMONT PARK 10-08-2018 RACE 8 OF 10 - TRACK RATING: 98 PT-04:58PM
+8.0f DIRT 3&UP 3YO 120 LBS;ODR 124 LBS NON-WS 1MI/OVER SNC MAY 1 2018 2 LBS CLM $12500 WG
+CLAIMING PURSE: $25000  RACE RATINGS: PRE 25  
+
+  Weighting Factors  13     21      1      1      1      1      0     16    
+PGM Name             A1FRR  A2FRR  A3FRR  AEPR   AAPR   ASPR   CLASS  JRATE SCORE
+1   PEGASUS RED      47.60 *88.70  66.60 *75.40  68.20  71.40  29.00  43.76 3.37  
+8   MARRIAGE FEVER   34.30  84.40 *73.50  67.10 *71.70 *74.10  33.00  52.76 3.90  
+3   SPARTY BOY       43.40  71.30  70.70  62.40  69.60  71.30  37.00 *53.36 4.60  
+2   TOOHOTTOEVENSPEA 38.30  81.40  69.00  73.00  70.30  72.80  25.00  33.36 4.88  
+9   HALLOWEEN HORROR 38.70  79.20  56.90  64.60  60.80  60.50  41.00  33.47 5.17  
+5   BOWMANS BEAST   *59.60  66.90  49.50  69.50  61.80  55.70  33.00  29.66 5.45  
+4   ORPHEUS          42.90  79.40  65.50  65.90  67.90  68.90  33.00  21.06 5.48  
+6   CHARMING INDY    28.00  71.70  63.00  50.90  57.00  60.50 *45.00  43.91 5.83  
+7   PROUD ZIP        30.90  64.20  35.60  53.70  37.40  36.70 *45.00  48.20 6.31  
+The number of past races used is 10
+MY TIP SHEET PREDICTIONS (USING PACE RATING/JOCKEY/CLASS METHOD):
+PGM    HORSE            ODDS       JOCKEY            TRAINER            OOF
+1  PEGASUS RED          10.0   CANCEL E.          AVILA A. C.
+8  MARRIAGE FEVER        3.5   ROSARIO J.         SCIACCA G.
+3  SPARTY BOY            4.0   ORTIZ JR. I.       ASMUSSEN S. M.
+2  TOOHOTTOEVENSPEAK    12.0   LUZZI M. J.        CONTESSA G. C.
+9  HALLOWEEN HORROR     12.0   MARTINEZ J. R.     CONTESSA G. C.
+5  BOWMANS BEAST        15.0   KAY W. R.          DUNHAM B. G.
+4  ORPHEUS              20.0   HARKIE H. K.       BARRERA III O. S.
+6  CHARMING INDY         2.0   DAVIS D.           ENGLEHART C. J.
+7  PROUD ZIP             4.5   FRANCO M.          RODRIGUEZ R. R.
+Method Success - WIN 69.39 PCT WGR-1234/1234 $24 - 49 RACES, ROI 11.46  PCT 10-07-2018
+
+QuickHorse (c) 2018 - Website: http://quickreckoning.com/horses.htm
+Custom Method: APRCJ - PACE RATING/JOCKEY/CLASS METHOD
+BELMONT PARK 10-08-2018 RACE 9 OF 10 - TRACK RATING: 98 PT-05:32PM
+6.0f INR TURF  FILS 2YO BY SUBS $150 EACH SHOULD ACCOMPANY THE NOMINATION;$750 TO PASS THE EN
+GRADE III STK/HCP PURSE: $150000  RACE RATINGS: PRE 80  
+
+  Weighting Factors   1      0      0      0      0      0      0      0    
+PGM Name             A1FRR  A2FRR  A3FRR  AEPR   AAPR   ASPR   CLASS  JRATE SCORE
+8   GUACAMOLE       *97.00  68.50  0.00  *96.00  8.00   1.00  *90.00  48.84 2.59  
+10  MALIBU MISCHIEF  90.50 *88.50  11.50  95.50  62.00  37.50  25.00  43.91 3.08  
+11  INTO THE SOUTH   86.33  73.67  24.67  88.67  64.33  48.67  25.00  50.72 3.38  
+1   JADED LADY       76.50  21.50  13.50  54.00  16.00  10.50  45.00  48.20 4.12  
+2   LONELY ROAD      71.67  59.00  2.33   70.33  17.00  7.33   46.67  44.17 4.47  
+3   DRAGIC           71.00  58.00  14.00  73.00  42.50  27.00  57.50  48.71 4.52  
+7   QUESTIONOFTHEDAY 64.50  83.50  21.00  77.50  51.50  38.50  45.00  49.99 5.01  
+5   EGOLI            46.00  56.00 *87.00  51.00 *78.00 *85.00  25.00  53.36 6.38  
+4   TRADEABLE        42.50  4.00   39.50  13.00  16.00  23.00  25.00  46.68 6.64  
+9   JAZZY J          41.75  33.25  11.00  36.75  13.00  11.50  35.00  43.76 6.70  
+6   ENTIRELY         22.67  58.33  59.33  28.67  39.00  47.00  51.67 *53.76 8.11  
+12  MONETTE          ????   ????   ????   ????   ????   ????   ????   51.93 ????  
+The number of past races used is 10
+MY TIP SHEET PREDICTIONS (USING PACE RATING/JOCKEY/CLASS METHOD):
+PGM    HORSE            ODDS       JOCKEY            TRAINER            OOF
+8  GUACAMOLE            15.0   SAEZ L.            PLETCHER T. A.
+10 MALIBU MISCHIEF      12.0   DAVIS D.           CONTESSA G. C.
+11 INTO THE SOUTH        6.0   BRAVO J.           CORREAS IV I.
+1  JADED LADY           20.0   FRANCO M.          ENGLEHART J. C.
+2  LONELY ROAD          15.0   COHEN D.           CLEMENT C.
+3  DRAGIC                4.0   VELAZQUEZ J. R.    WARD W. A.
+7  QUESTIONOFTHEDAY     15.0   PIMENTEL J.        TROMBETTA M. J.
+5  EGOLI                 6.0   ORTIZ JR. I.       WARD W. A.
+4  TRADEABLE            12.0   ALVARADO J.        HERTLER J. O.
+9  JAZZY J              30.0   CANCEL E.          MAYMO A.
+6  ENTIRELY              3.5   CASTELLANO J.      THOMAS J.
+12 MONETTE               5.0   ORTIZ J. L.        MOTION H. G.
+Method Success - WIN 100.00PCT WGR-1234/1234 $24 - 1 RACES, ROI 114.58 PCT 05-26-2018
+
+QuickHorse (c) 2018 - Website: http://quickreckoning.com/horses.htm
+Custom Method: APRCJ - PACE RATING/JOCKEY/CLASS METHOD
+BELMONT PARK 10-08-2018 RACE 10 OF 10 - TRACK RATING: 98 PT-06:06PM
+6.0f TURF  F&M 3&UP Nw $1OK TWICE OTHER THAN MDN CLMG STRTR/ST BRD ALW/ Nw 3 /CLM $62500 
+ALLOWANCE PURSE: $80000  RACE RATINGS: PRE 80  
+
+  Weighting Factors   1      0      0      0      0      0      0     16    
+PGM Name             A1FRR  A2FRR  A3FRR  AEPR   AAPR   ASPR   CLASS  JRATE SCORE
+1   JUMBY BAY        75.80  68.10  37.30  75.90  67.70  53.50  37.00 *53.76 3.14  
+1A  ORECCHIETTE      72.00  61.20  50.40  70.70  61.10  56.80  45.00 *53.76 3.15  
+8   BATTLE JOINED    77.67  65.17  59.00  79.33 *77.17 *71.83  38.33  53.36 3.30  
+10  FACTOROFWON      73.50  50.80  37.00  69.20  49.40  42.90  41.00  52.76 3.59  
+5   SISTER SOPHIA    20.10  63.80  75.40  37.20  61.50  68.60  41.00  51.93 4.19  
+3   BROADWAY RUN     78.50  52.75  46.25  70.50  58.50  54.25  45.00  48.84 5.31  
+2   PURRFECT MISS   *88.83  68.33  15.17  86.67  46.00  29.17 *53.33  48.71 5.32  
+9   LADY SUEBEE      67.29  56.43  36.71  63.43  44.57  38.86  47.86  48.20 5.63  
+6   TOUCH OF BLING   76.60  49.10  24.90  65.50  51.30  37.70  45.00  46.68 6.27  
+7   TANYAS GEM       82.00 *82.00  35.90 *88.30  74.20  57.30  41.00  43.91 7.47  
+4   RUMBLE DOLL      18.80  57.20 *79.60  30.50  60.60  70.50  33.00  44.17 7.63  
+The number of past races used is 10
+MY TIP SHEET PREDICTIONS (USING PACE RATING/JOCKEY/CLASS METHOD):
+PGM    HORSE            ODDS       JOCKEY            TRAINER            OOF
+1  JUMBY BAY             3.5   CASTELLANO J.      PLETCHER T. A.
+1A ORECCHIETTE           3.5   CASTELLANO J.      THOMAS J.
+8  BATTLE JOINED         4.0   ORTIZ JR. I.       HENNIG M. A.
+10 FACTOROFWON          10.0   ROSARIO J.         CLEMENT C.
+5  SISTER SOPHIA         6.0   ORTIZ J. L.        ABREU J. R.
+3  BROADWAY RUN          3.0   SAEZ L.            TERRANOVA II J. P.
+2  PURRFECT MISS        15.0   VELAZQUEZ J. R.    ENGLEHART J. C.
+9  LADY SUEBEE           8.0   FRANCO M.          BROWN C. C.
+6  TOUCH OF BLING       12.0   ALVARADO J.        MAKER M. J.
+7  TANYAS GEM           30.0   DAVIS D.           JONES E. E.
+4  RUMBLE DOLL           8.0   COHEN D.           FALCONE JR. R. N.
+Method Success - WIN 25.00 PCT WGR-1234/1234 $24 - 4 RACES, ROI -56.25 PCT 10-07-2018
+
