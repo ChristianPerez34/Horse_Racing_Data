@@ -1,17 +1,18 @@
 import os
 import re
+from os.path import isfile, join
 
 import xlsxwriter
 
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__))) + '/Data/'
+BASE_DIR = os.path.dirname((os.path.abspath(__file__)))
 
 
 class TextToExcel:
 
     def __init__(self, file_name):
-        self.file = open(BASE_DIR + file_name, 'r')
-        self.horse_workbook = xlsxwriter.Workbook(file_name.split('.')[0] + '_horse.xlsx')
-        self.race_workbook = xlsxwriter.Workbook(file_name.split('.')[0] + '_race.xlsx')
+        self.file = open(BASE_DIR + '/Data/' + file_name, 'r')
+        self.horse_workbook = xlsxwriter.Workbook(BASE_DIR + '/Excel/' + file_name.split('.')[0] + '_horse.xlsx')
+        self.race_workbook = xlsxwriter.Workbook(BASE_DIR + '/Excel/' + file_name.split('.')[0] + '_race.xlsx')
         self.horse_worksheet = self.horse_workbook.add_worksheet()
         self.race_worksheet = self.race_workbook.add_worksheet()
         self.race_header = ['track', 'race_date', 'race_no', 'track_rating', 'race_distance', 'track_surface',
@@ -161,8 +162,12 @@ class TextToExcel:
         self.horse_workbook.close()
 
 
-file_reader = TextToExcel('BEL20181008APRCJ.TXT')
-file_reader.write_excel_headers()
-lines = file_reader.read_file()
-file_reader.gather_relevant_data(lines)
-file_reader.parse_race_data()
+path = BASE_DIR + '/Data/'
+files = [file for file in os.listdir(path) if isfile(join(path, file))]
+for text_file in files:
+    file_reader = TextToExcel('BEL20181008APRCJ.TXT')
+    file_reader.write_excel_headers()
+    lines = file_reader.read_file()
+    file_reader.gather_relevant_data(lines)
+    file_reader.parse_data()
+    file_reader.close_excel_files()
