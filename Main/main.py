@@ -28,8 +28,9 @@ class TextToExcel:
         lines = self.file.readlines()
         lines = list(map(lambda line: line.strip(), lines))  # Removes new line characters from list
         lines = list(filter(None, lines))  # Removes empty strings from list
-        self.write_excel_headers()
-        self.gather_relevant_data(lines)
+        return lines
+        # self.write_excel_headers()
+        # self.gather_relevant_data(lines)
 
     def parse_race_data(self):
         for race_data in self.race_data_list:
@@ -95,10 +96,10 @@ class TextToExcel:
                         self.horse_data_list.append(list(horse_data_list))
                         race_data_list.clear()
                         horse_data_list.clear()
-        self.parse_race_data()
-        self.parse_horse_data()
-        self.race_workbook.close()
-        self.horse_workbook.close()
+        # self.parse_race_data()
+        # self.parse_horse_data()
+        # self.race_workbook.close()
+        # self.horse_workbook.close()
 
     def parse_horse_data(self):
         race_no = 1
@@ -151,6 +152,17 @@ class TextToExcel:
         self.write_race_excel_header()
         self.write_horse_excel_header()
 
+    def parse_data(self):
+        self.parse_race_data()
+        self.parse_horse_data()
+
+    def close_excel_files(self):
+        self.race_workbook.close()
+        self.horse_workbook.close()
+
 
 file_reader = TextToExcel('BEL20181008APRCJ.TXT')
-file_reader.read_file()
+file_reader.write_excel_headers()
+lines = file_reader.read_file()
+file_reader.gather_relevant_data(lines)
+file_reader.parse_race_data()
